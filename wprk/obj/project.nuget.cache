@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZpYPxjugPr9CSdyKQWN3Kd+Nnj69Bk+StU2dcKKhP89NT/ryW0Qg//Q0zPMCm7DatmCnU86otEpKY/6dtR/ilQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leo.eriksson5\\Desktop\\Prrprr\\Projekt spel fucking work\\wprk\\Please.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leo.eriksson5\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\Leo.eriksson5\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
